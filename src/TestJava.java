@@ -3,9 +3,19 @@ public class TestJava {
         System.out.println("test");
         System.out.println("ttttt");
 
+
+
+
+
+
+
+
+        System.out.println("test");
+
         System.out.println("ttttt");
 
 
         System.out.println("ttttt");
+
     }
 }
